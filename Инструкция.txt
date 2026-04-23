@@ -1,0 +1,9 @@
+Для работы вам нужно найти и скачать аннотацию генома человека и сам геном человека (chm13v2.0.fa)
+Файл с геномом переименовать в HumanGenome.fa
+
+gencode.v38.annotation.gtf.gz	(46 556 621 байт)
+HumanGenome.fa			(3 156 259 703 байт)
+
+запустить файл homo_perpetuus_FINAL.py
+результаты в папке output_final
+
